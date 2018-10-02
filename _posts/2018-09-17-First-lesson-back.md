@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>First lesson back.</td>
+    <td>Google sheets</td>
     <td>Date</td>
-    <td>17/9/18
+    <td>27/91018
 </td>
   </tr>
 </table>
@@ -24,12 +24,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To pay attention and fully understand.</td>
+    <td>To really grasp what's being taught.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Not too sure.</td>
+    <td>Kind of.</td>
   </tr>
 </table>
 
@@ -42,19 +42,19 @@ published: true
     <td>How did I learn. What strategies were effective?</td>
   </tr>
   <tr>
-    <td>I learnt by trying to concentrate fully and get distracted by nobody and trying to put my hand up as much as possible, which didn't really happen because I was quite confused a lot of the time.</td>
+    <td>I learnt by not getting distracted and asking questions of my classmates if I didn't understand.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Not too sure. I got distracted a bit but that barely loosened my concentration. The lesson was going quite quickly so I wasn’t able to keep up 100 percent.</td>
+    <td>I didn’t ask the teacher enough questions and didn’t contribute enough to the lesson and raise my hand enough, so I need to work on just giving more and really trying to find the solution if I’m not sure.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try keep up properly and if I’m confused again, I should just ask questions about anything I’m not sure on.</td>
+    <td>I will try and ask a lot more questions and make sure I’m on top of my work and don’t fall behind with what I’m doing so then I can concentrate on the next thing I have to do.</td>
   </tr>
 </table>
 
